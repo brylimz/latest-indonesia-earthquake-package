@@ -8,7 +8,8 @@ setuptools.setup(
     version="0.1",
     author="Bryan Y. Limz",
     author_email="superuser@brylimz.com",
-    description="This package will get the latest earthquake from Indonesia | BMKG | Meteorological, Climatological, and Geophysical Agency",
+    description="This package will get the latest earthquake from Indonesia | BMKG | Meteorological, Climatological, "
+                "and Geophysical Agency",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/brylimz/latest-indonesia-earthquake",
